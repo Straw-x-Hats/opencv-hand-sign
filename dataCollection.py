@@ -11,7 +11,7 @@ offset =20
 imgSize = 400
 counter = 0
 
-folder = "images/Four"
+folder = "images/Five"
 
 while True:
     sucess, img = cap.read()
